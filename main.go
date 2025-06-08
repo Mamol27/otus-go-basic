@@ -9,3 +9,7 @@ func main() {
 func someFnc() {
 	fmt.Println("do some work")
 }
+
+func secondFunc() {
+	fmt.Println("do second work")
+}
